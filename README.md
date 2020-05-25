@@ -5,9 +5,9 @@
 
 # What was the Problem?
 low level user can send admin request related to multi factor authentication And create the following problems:
-1. multi-factor authentication settings disable for all assets
+1- multi-factor authentication settings disable for all assets
 
-2. registration of security question become Mandatory for all users
+2- registration of security question become Mandatory for all users
 
 3- security question authenticator enable for ADSelfService Plus login
 
